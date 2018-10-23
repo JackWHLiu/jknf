@@ -18,7 +18,7 @@ allprojects {
 #### //依赖本库，在app模块的build.gradle加入加粗的代码，版本号也可改成master-SNAPSHOT直接拿最新代码编译。
 <blockquote>
 dependencies {
-    <h3>compile 'com.github.JackWHLiu.jknf:jknf-lib:1.0'</h3>
+    <h3>compile 'com.github.JackWHLiu:jknf:1.0'</h3>
 }
 </blockquote>
 
